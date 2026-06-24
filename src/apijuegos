@@ -1,0 +1,38 @@
+🎮 3. Dashboard de Videojuegos
+API pública: RAWG (gratuita con API key)
+
+Funciones:
+
+Listado de juegos
+
+Detalle de cada juego
+
+Filtros por género, plataforma, rating
+
+Tu API para guardar “Mi colección”
+
+Qué practicas:
+
+Rutas dinámicas con React Router
+
+Custom hooks para fetch
+
+Skeleton loaders
+
+Integración de dos APIs
+
+
+🎮 Proyecto Completo: Dashboard de Videojuegos (React + API REST)
+🧩 Objetivo del proyecto
+Construir una aplicación en React que:
+
+Consuma la API pública de RAWG para obtener videojuegos.
+
+Muestre listados, detalles, filtros y paginación.
+
+Use tu propia API REST para guardar tu colección personal.
+
+Tenga rutas dinámicas, custom hooks y un diseño modular.
+
+Es un proyecto perfecto para portfolio porque combina API externa + API propia + UI compleja.
+
