@@ -1,18 +1,18 @@
-# React + Vite
+ACCIÓN INMEDIATA (hoy): Personaliza tu GitHub para que en 30 segundos un recruiter vea QUÉ hace tu código
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+URGENTE
+Reescribe README de games-api-search
 
-Currently, two official plugins are available:
+Abre el repo → Edit file (README.md)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Buscador de Videojuegos con React
 
-## React Compiler
+App interactiva que busca y filtra videojuegos usando la API RAWG.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🔗 Demo: games-api-search.vercel.app
 
-Note: This will impact Vite dev & build performances.
+📚 Stack: React + Vite, Axios, CSS modular
 
-## Expanding the ESLint configuration
+✨ Características: Búsqueda en tiempo real, filtros, componentes reutilizables
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Instalación: npm install && npm run dev
